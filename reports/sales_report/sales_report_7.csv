@@ -1,0 +1,8 @@
+ReportType,Season,TotalSales
+----------,------,----------
+Seasonal Sales,Spring,$35,647,724.11
+Seasonal Sales,Summer,$31,529,415.97
+Seasonal Sales,Autumn,$29,515,860.94
+Seasonal Sales,Winter,$26,523,785.09
+
+(4 rows affected)

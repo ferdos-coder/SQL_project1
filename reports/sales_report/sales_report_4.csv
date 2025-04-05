@@ -1,0 +1,14 @@
+ReportType,TerritoryName,TotalSales,OrderCount
+----------,-------------,----------,----------
+Territory Sales,Central,$8,913,299.25,385
+Territory Sales,Southeast,$8,884,099.37,486
+Territory Sales,United Kingdom,$8,574,048.71,3219
+Territory Sales,France,$8,119,749.35,2672
+Territory Sales,Northeast,$7,820,209.63,352
+Territory Sales,Germany,$5,479,819.58,2623
+Territory Sales,Southwest,$27,150,594.59,6224
+Territory Sales,Canada,$18,398,929.19,4067
+Territory Sales,Northwest,$18,061,660.37,4594
+Territory Sales,Australia,$11,814,376.10,6843
+
+(10 rows affected)

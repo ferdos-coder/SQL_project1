@@ -1,0 +1,21 @@
+ReportType,BusinessEntityID,SalesPersonName,TotalSales,OrderCount
+----------,----------------,---------------,----------,----------
+SalesPerson Sales,289,Jae Pak,$9,585,124.95,348
+SalesPerson Sales,287,Amy Alberts,$826,417.47,39
+SalesPerson Sales,279,Tsvi Reiter,$8,086,073.68,429
+SalesPerson Sales,281,Shu Ito,$7,259,567.88,242
+SalesPerson Sales,282,José Saraiva,$6,683,536.66,271
+SalesPerson Sales,290,Ranjit Varkey Chudukatil,$5,087,977.21,175
+SalesPerson Sales,283,David Campbell,$4,207,894.60,189
+SalesPerson Sales,278,Garrett Vargas,$4,069,422.21,234
+SalesPerson Sales,280,Pamela Ansman-Wolfe,$3,748,246.12,95
+SalesPerson Sales,284,Tete Mensa-Annan,$2,608,116.38,140
+SalesPerson Sales,288,Rachel Valdez,$2,062,393.14,130
+SalesPerson Sales,285,Syed Abbas,$195,528.78,16
+SalesPerson Sales,276,Linda Mitchell,$11,695,019.06,418
+SalesPerson Sales,277,Jillian Carson,$11,342,385.90,473
+SalesPerson Sales,275,Michael Blythe,$10,475,367.08,450
+SalesPerson Sales,286,Lynn Tsoflias,$1,606,441.45,109
+SalesPerson Sales,274,Stephen Jiang,$1,235,934.45,48
+
+(17 rows affected)

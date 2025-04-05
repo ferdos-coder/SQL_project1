@@ -1,0 +1,270 @@
+ReportType,ProductID,ProductName,TotalSales,TotalQuantitySold
+----------,---------,-----------,----------,-----------------
+Product Sales,955,Touring-1000 Yellow, 50,$981,187.85,652
+Product Sales,883,Short-Sleeve Classic Jersey, L,$98,472.72,2848
+Product Sales,993,Mountain-500 Black, 52,$96,982.20,272
+Product Sales,716,Long-Sleeve Logo Jersey, XL,$95,611.20,2980
+Product Sales,762,Road-650 Red, 44,$943,340.56,2254
+Product Sales,854,Women's Tights, L,$94,090.64,2123
+Product Sales,799,Road-550-W Yellow, 42,$932,039.59,1249
+Product Sales,748,HL Mountain Frame - Silver, 38,$930,780.68,1206
+Product Sales,925,LL Mountain Frame - Black, 44,$93,584.42,625
+Product Sales,852,Women's Tights, S,$91,330.80,2072
+Product Sales,743,HL Mountain Frame - Black, 42,$901,590.23,1181
+Product Sales,865,Classic Vest, M,$90,250.60,2284
+Product Sales,922,Road Tire Tube,$9,480.24,2376
+Product Sales,874,Racing Socks, M,$9,387.15,1547
+Product Sales,952,Chain,$9,377.71,774
+Product Sales,839,HL Road Frame - Black, 48,$89,872.17,109
+Product Sales,719,HL Road Frame - Red, 48,$89,872.17,109
+Product Sales,732,ML Road Frame - Red, 48,$89,224.50,250
+Product Sales,761,Road-650 Red, 62,$879,827.94,1896
+Product Sales,763,Road-650 Red, 48,$878,666.66,1888
+Product Sales,765,Road-650 Black, 58,$869,632.78,1871
+Product Sales,856,Men's Bib-Shorts, M,$86,166.05,1616
+Product Sales,897,LL Touring Frame - Blue, 58,$800.21,4
+Product Sales,873,Patch Kit/8 Patches,$8,232.60,3865
+Product Sales,819,ML Road Front Wheel,$79,354.04,532
+Product Sales,972,Touring-2000 Blue, 54,$772,302.01,1010
+Product Sales,968,Touring-1000 Blue, 54,$743,353.03,413
+Product Sales,891,HL Touring Frame - Blue, 50,$74,690.90,124
+Product Sales,800,Road-550-W Yellow, 44,$717,825.91,927
+Product Sales,881,Short-Sleeve Classic Jersey, S,$71,606.07,1955
+Product Sales,923,Touring Tire Tube,$7,425.12,1488
+Product Sales,902,LL Touring Frame - Yellow, 58,$7,201.87,36
+Product Sales,941,Touring Pedal,$7,143.32,147
+Product Sales,975,Road-350-W Yellow, 44,$694,003.92,536
+Product Sales,863,Full-Finger Gloves, L,$69,943.21,3378
+Product Sales,944,LL Mountain Frame - Silver, 40,$69,934.28,442
+Product Sales,886,LL Touring Frame - Yellow, 62,$69,127.14,348
+Product Sales,890,HL Touring Frame - Blue, 46,$68,667.44,114
+Product Sales,833,ML Road Frame-W - Yellow, 40,$68,167.51,203
+Product Sales,920,LL Mountain Frame - Silver, 52,$67,332.75,425
+Product Sales,956,Touring-1000 Yellow, 54,$667,158.15,397
+Product Sales,953,Touring-2000 Blue, 60,$635,723.72,820
+Product Sales,924,LL Mountain Frame - Black, 42,$63,396.70,423
+Product Sales,895,LL Touring Frame - Blue, 50,$63,216.43,316
+Product Sales,758,Road-450 Red, 52,$621,103.74,710
+Product Sales,804,HL Fork,$61,034.61,444
+Product Sales,919,LL Mountain Frame - Silver, 48,$6,970.92,44
+Product Sales,709,Mountain Bike Socks, M,$6,060.39,1107
+Product Sales,918,LL Mountain Frame - Silver, 44,$58,777.53,371
+Product Sales,899,LL Touring Frame - Yellow, 44,$58,699.39,294
+Product Sales,826,LL Road Rear Wheel,$58,655.37,868
+Product Sales,998,Road-750 Black, 48,$578,174.31,1556
+Product Sales,926,LL Mountain Frame - Black, 48,$57,851.36,386
+Product Sales,868,Women's Mountain Shorts, M,$57,685.76,1139
+Product Sales,859,Half-Finger Gloves, M,$54,545.49,3464
+Product Sales,764,Road-650 Red, 52,$523,630.15,1112
+Product Sales,766,Road-650 Black, 60,$521,898.26,1100
+Product Sales,887,HL Touring Frame - Yellow, 46,$52,404.10,87
+Product Sales,999,Road-750 Black, 52,$515,666.91,1338
+Product Sales,710,Mountain Bike Socks, L,$513.00,90
+Product Sales,809,ML Mountain Handlebars,$51,753.71,1465
+Product Sales,712,AWC Logo Cap,$51,229.45,8311
+Product Sales,768,Road-650 Black, 44,$509,245.01,1080
+Product Sales,754,Road-450 Red, 58,$507,978.30,582
+Product Sales,747,HL Mountain Frame - Black, 38,$501,788.20,659
+Product Sales,786,Mountain-300 Black, 40,$501,648.88,776
+Product Sales,948,Front Brakes,$50,299.31,789
+Product Sales,908,LL Mountain Seat/Saddle,$5,636.96,347
+Product Sales,811,LL Road Handlebars,$5,422.54,213
+Product Sales,903,LL Touring Frame - Blue, 44,$5,001.30,25
+Product Sales,742,HL Mountain Frame - Silver, 46,$499,556.57,649
+Product Sales,888,HL Touring Frame - Yellow, 50,$49,994.72,83
+Product Sales,835,ML Road Frame-W - Yellow, 44,$485,700.55,1435
+Product Sales,787,Mountain-300 Black, 44,$484,051.52,747
+Product Sales,930,HL Mountain Tire,$48,860.00,1396
+Product Sales,862,Full-Finger Gloves, M,$48,210.18,2206
+Product Sales,788,Mountain-300 Black, 48,$479,071.90,740
+Product Sales,855,Men's Bib-Shorts, S,$47,214.37,876
+Product Sales,878,Fender Set - Mountain,$46,619.58,2121
+Product Sales,900,LL Touring Frame - Yellow, 50,$45,611.86,228
+Product Sales,849,Men's Sports Shorts, M,$45,594.28,1276
+Product Sales,736,LL Road Frame - Black, 44,$45,164.68,238
+Product Sales,785,Mountain-300 Black, 38,$442,477.09,684
+Product Sales,949,LL Crankset,$44,855.24,426
+Product Sales,945,Front Derailleur,$44,484.27,813
+Product Sales,970,Touring-2000 Blue, 46,$438,867.48,538
+Product Sales,813,HL Road Handlebars,$43,395.60,631
+Product Sales,896,LL Touring Frame - Blue, 54,$42,210.97,211
+Product Sales,906,ML Mountain Frame-W - Silver, 46,$41,069.35,188
+Product Sales,782,Mountain-200 Black, 38,$4,400,592.80,2977
+Product Sales,913,HL Road Seat/Saddle,$4,232.26,134
+Product Sales,783,Mountain-200 Black, 42,$4,009,494.76,2664
+Product Sales,718,HL Road Frame - Red, 44,$395,182.70,486
+Product Sales,717,HL Road Frame - Red, 62,$394,255.57,485
+Product Sales,817,HL Mountain Front Wheel,$39,988.64,222
+Product Sales,806,ML Headset,$39,909.11,659
+Product Sales,879,All-Purpose Bike Stand,$39,591.00,249
+Product Sales,996,HL Bottom Bracket,$39,581.44,543
+Product Sales,937,HL Mountain Pedal,$38,018.33,785
+Product Sales,838,HL Road Frame - Black, 44,$375,026.98,459
+Product Sales,977,Road-750 Black, 58,$361,145.31,892
+Product Sales,858,Half-Finger Gloves, S,$36,490.55,2188
+Product Sales,961,Touring-3000 Yellow, 44,$358,121.89,851
+Product Sales,965,Touring-3000 Yellow, 62,$351,547.71,844
+Product Sales,979,Touring-3000 Blue, 50,$348,581.50,841
+Product Sales,929,ML Mountain Tire,$34,818.39,1161
+Product Sales,810,HL Mountain Handlebars,$34,375.35,500
+Product Sales,857,Men's Bib-Shorts, L,$34,178.20,633
+Product Sales,816,ML Mountain Front Wheel,$33,360.39,266
+Product Sales,892,HL Touring Frame - Blue, 54,$324,333.10,542
+Product Sales,981,Mountain-400-W Silver, 40,$323,703.82,617
+Product Sales,889,HL Touring Frame - Yellow, 54,$323,268.26,540
+Product Sales,940,HL Road Pedal,$32,849.54,676
+Product Sales,733,ML Road Frame - Red, 52,$32,120.82,90
+Product Sales,767,Road-650 Black, 62,$312,250.81,644
+Product Sales,769,Road-650 Black, 48,$310,946.58,644
+Product Sales,755,Road-450 Red, 60,$306,177.90,350
+Product Sales,759,Road-650 Red, 58,$304,012.64,618
+Product Sales,822,ML Road Frame-W - Yellow, 38,$303,330.84,895
+Product Sales,756,Road-450 Red, 44,$302,678.72,346
+Product Sales,836,ML Road Frame-W - Yellow, 48,$301,286.79,889
+Product Sales,779,Mountain-200 Silver, 38,$3,693,678.03,2394
+Product Sales,780,Mountain-200 Silver, 42,$3,438,478.86,2234
+Product Sales,781,Mountain-200 Silver, 46,$3,434,256.94,2216
+Product Sales,784,Mountain-200 Black, 46,$3,309,673.22,2111
+Product Sales,898,LL Touring Frame - Blue, 62,$3,000.78,15
+Product Sales,738,LL Road Frame - Black, 52,$299,595.52,1581
+Product Sales,962,Touring-3000 Yellow, 50,$291,747.26,686
+Product Sales,997,Road-750 Black, 44,$290,298.62,656
+Product Sales,958,Touring-3000 Blue, 54,$290,075.12,686
+Product Sales,971,Touring-2000 Blue, 50,$286,218.66,322
+Product Sales,870,Water Bottle - 30 oz.,$28,654.16,6815
+Product Sales,933,HL Road Tire,$27,970.80,858
+Product Sales,934,Touring Tire,$27,105.65,935
+Product Sales,739,HL Mountain Frame - Silver, 42,$269,874.01,347
+Product Sales,894,Rear Derailleur,$25,725.23,353
+Product Sales,980,Mountain-400-W Silver, 38,$241,773.76,425
+Product Sales,723,LL Road Frame - Black, 60,$24,844.69,129
+Product Sales,939,ML Road Pedal,$24,624.89,661
+Product Sales,876,Hitch Rack - 4-Bike,$237,096.16,3166
+Product Sales,885,HL Touring Frame - Yellow, 60,$232,378.26,387
+Product Sales,932,ML Road Tire,$23,140.74,926
+Product Sales,983,Mountain-400-W Silver, 46,$227,347.67,401
+Product Sales,893,HL Touring Frame - Blue, 60,$221,720.95,371
+Product Sales,860,Half-Finger Gloves, L,$22,912.26,1276
+Product Sales,815,LL Mountain Front Wheel,$22,462.84,617
+Product Sales,931,LL Road Tire,$22,435.56,1044
+Product Sales,808,LL Mountain Handlebars,$22,008.27,865
+Product Sales,982,Mountain-400-W Silver, 42,$217,457.87,385
+Product Sales,959,Touring-3000 Blue, 58,$210,946.18,482
+Product Sales,882,Short-Sleeve Classic Jersey, M,$21,973.93,407
+Product Sales,928,LL Mountain Tire,$21,541.38,862
+Product Sales,713,Long-Sleeve Logo Jersey, S,$21,445.71,429
+Product Sales,938,LL Road Pedal,$21,087.19,868
+Product Sales,832,ML Mountain Frame - Black, 48,$200,284.50,959
+Product Sales,841,Men's Sports Shorts, S,$20,365.00,567
+Product Sales,828,HL Road Rear Wheel,$20,238.16,94
+Product Sales,871,Mountain Bottle Cage,$20,229.75,2025
+Product Sales,727,LL Road Frame - Red, 52,$20,104.44,100
+Product Sales,793,Road-250 Black, 44,$2,516,857.31,1642
+Product Sales,794,Road-250 Black, 48,$2,347,655.95,1498
+Product Sales,927,LL Mountain Frame - Black, 52,$2,248.11,15
+Product Sales,795,Road-250 Black, 52,$2,012,447.78,1245
+Product Sales,715,Long-Sleeve Logo Jersey, L,$198,754.98,6592
+Product Sales,963,Touring-3000 Yellow, 54,$196,809.98,453
+Product Sales,729,LL Road Frame - Red, 60,$195,933.41,996
+Product Sales,904,ML Mountain Frame-W - Silver, 40,$195,826.39,899
+Product Sales,725,LL Road Frame - Red, 44,$194,692.60,991
+Product Sales,807,HL Headset,$19,083.69,255
+Product Sales,877,Bike Wash - Dissolver,$18,406.97,3319
+Product Sales,823,LL Mountain Rear Wheel,$18,005.27,342
+Product Sales,722,LL Road Frame - Black, 58,$177,635.90,940
+Product Sales,853,Women's Tights, M,$17,727.64,394
+Product Sales,825,HL Mountain Rear Wheel,$166,013.28,850
+Product Sales,711,Sport-100 Helmet, Blue,$165,406.62,6743
+Product Sales,911,LL Road Seat/Saddle,$162.72,10
+Product Sales,988,Mountain-500 Silver, 52,$161,293.35,515
+Product Sales,708,Sport-100 Helmet, Black,$160,869.52,6532
+Product Sales,802,LL Fork,$16,897.08,190
+Product Sales,910,HL Mountain Seat/Saddle,$16,392.10,519
+Product Sales,843,Cable Lock,$16,240.22,1087
+Product Sales,850,Men's Sports Shorts, L,$16,017.33,445
+Product Sales,707,Sport-100 Helmet, Red,$157,772.39,6266
+Product Sales,992,Mountain-500 Black, 48,$157,569.08,449
+Product Sales,864,Classic Vest, S,$156,398.07,4247
+Product Sales,907,Rear Brakes,$15,719.40,246
+Product Sales,921,Mountain Tire Tube,$15,444.05,3095
+Product Sales,872,Road Bottle Cage,$15,390.88,1712
+Product Sales,951,HL Crankset,$148,622.58,613
+Product Sales,984,Mountain-500 Silver, 40,$145,089.43,450
+Product Sales,987,Mountain-500 Silver, 48,$142,897.27,457
+Product Sales,741,HL Mountain Frame - Silver, 48,$141,635.10,173
+Product Sales,985,Mountain-500 Silver, 42,$141,360.50,455
+Product Sales,830,ML Mountain Frame - Black, 40,$14,229.41,68
+Product Sales,730,LL Road Frame - Red, 62,$137,213.49,697
+Product Sales,867,Women's Mountain Shorts, S,$137,164.13,3296
+Product Sales,905,ML Mountain Frame-W - Silver, 42,$136,970.66,627
+Product Sales,869,Women's Mountain Shorts, L,$136,774.02,3244
+Product Sales,757,Road-450 Red, 48,$136,467.86,156
+Product Sales,990,Mountain-500 Black, 42,$136,293.48,388
+Product Sales,960,Touring-3000 Blue, 62,$135,284.01,281
+Product Sales,978,Touring-3000 Blue, 44,$133,365.03,292
+Product Sales,726,LL Road Frame - Red, 48,$132,125.25,671
+Product Sales,964,Touring-3000 Yellow, 58,$130,898.58,293
+Product Sales,875,Racing Socks, L,$13,784.59,2473
+Product Sales,744,HL Mountain Frame - Black, 44,$13,765.92,17
+Product Sales,844,Minipump,$13,514.69,1130
+Product Sales,916,HL Touring Seat/Saddle,$13,454.78,426
+Product Sales,831,ML Mountain Frame - Black, 44,$129,529.46,619
+Product Sales,884,Short-Sleeve Classic Jersey, XL,$129,145.57,3864
+Product Sales,991,Mountain-500 Black, 44,$125,925.67,350
+Product Sales,986,Mountain-500 Silver, 44,$122,512.43,381
+Product Sales,936,ML Mountain Pedal,$12,852.63,345
+Product Sales,866,Classic Vest, L,$12,839.70,207
+Product Sales,909,ML Mountain Seat/Saddle,$12,497.17,534
+Product Sales,994,LL Bottom Bracket,$12,244.93,378
+Product Sales,947,HL Touring Handlebars,$12,087.24,220
+Product Sales,824,ML Mountain Rear Wheel,$119,892.16,851
+Product Sales,714,Long-Sleeve Logo Jersey, M,$115,249.21,3636
+Product Sales,820,HL Road Front Wheel,$112,286.41,567
+Product Sales,861,Full-Finger Gloves, S,$11,410.30,500
+Product Sales,814,ML Mountain Frame - Black, 38,$107,557.58,514
+Product Sales,745,HL Mountain Frame - Black, 48,$106,078.56,131
+Product Sales,880,Hydration Pack - 70 oz.,$105,826.42,2761
+Product Sales,989,Mountain-500 Black, 40,$101,734.12,282
+Product Sales,917,LL Mountain Frame - Silver, 42,$100,569.36,638
+Product Sales,935,LL Mountain Pedal,$10,908.01,449
+Product Sales,827,ML Road Rear Wheel,$10,574.78,64
+Product Sales,950,ML Crankset,$10,464.79,68
+Product Sales,915,ML Touring Seat/Saddle,$1,972.66,84
+Product Sales,805,LL Headset,$1,949.40,95
+Product Sales,753,Road-150 Red, 56,$1,847,818.63,664
+Product Sales,976,Road-350-W Yellow, 48,$1,774,883.56,1622
+Product Sales,749,Road-150 Red, 62,$1,769,096.69,600
+Product Sales,969,Touring-1000 Blue, 60,$1,721,242.51,1120
+Product Sales,973,Road-350-W Yellow, 40,$1,657,198.18,1477
+Product Sales,792,Road-250 Red, 58,$1,587,008.18,946
+Product Sales,966,Touring-1000 Blue, 46,$1,586,953.57,1002
+Product Sales,946,LL Touring Handlebars,$1,548.62,56
+Product Sales,751,Road-150 Red, 48,$1,540,803.06,493
+Product Sales,942,ML Mountain Frame-W - Silver, 38,$1,529.18,7
+Product Sales,957,Touring-1000 Yellow, 60,$1,518,133.10,1114
+Product Sales,796,Road-250 Black, 58,$1,506,377.63,910
+Product Sales,914,LL Touring Seat/Saddle,$1,480.75,91
+Product Sales,789,Road-250 Red, 44,$1,448,122.48,895
+Product Sales,954,Touring-1000 Yellow, 46,$1,426,372.87,1005
+Product Sales,752,Road-150 Red, 52,$1,415,563.61,458
+Product Sales,777,Mountain-100 Black, 44,$1,365,852.38,678
+Product Sales,790,Road-250 Red, 48,$1,348,759.50,812
+Product Sales,750,Road-150 Red, 44,$1,340,419.94,437
+Product Sales,775,Mountain-100 Black, 38,$1,339,997.25,682
+Product Sales,771,Mountain-100 Silver, 38,$1,291,868.70,642
+Product Sales,776,Mountain-100 Black, 42,$1,254,722.73,634
+Product Sales,778,Mountain-100 Black, 48,$1,234,276.03,616
+Product Sales,801,Road-550-W Yellow, 48,$1,233,938.88,1763
+Product Sales,797,Road-550-W Yellow, 38,$1,227,910.08,1744
+Product Sales,773,Mountain-100 Silver, 44,$1,217,210.36,601
+Product Sales,943,LL Mountain Frame - Black, 40,$1,198.99,8
+Product Sales,772,Mountain-100 Silver, 42,$1,186,494.85,593
+Product Sales,974,Road-350-W Yellow, 42,$1,120,066.36,944
+Product Sales,967,Touring-1000 Blue, 50,$1,071,401.06,649
+Product Sales,798,Road-550-W Yellow, 40,$1,071,291.78,1500
+Product Sales,791,Road-250 Red, 52,$1,066,766.61,639
+Product Sales,770,Road-650 Black, 52,$1,042,909.78,2270
+Product Sales,774,Mountain-100 Silver, 48,$1,019,657.00,505
+Product Sales,760,Road-650 Red, 60,$1,016,529.02,2232
+
+(266 rows affected)

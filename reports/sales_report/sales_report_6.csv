@@ -1,0 +1,14 @@
+ReportType,CustomerID,CustomerName,TotalSpent,OrderCount
+----------,----------,------------,----------,----------
+Top Customers,18943,Kaitlyn Hall,$997.79,1
+Top Customers,14745,Luke Hall,$997.22,1
+Top Customers,28113,Amanda Powell,$995.99,1
+Top Customers,28688,Margaret Ye,$995.99,1
+Top Customers,27825,Christy Zimmerman,$995.99,1
+Top Customers,14387,Brittany Hughes,$992.80,1
+Top Customers,14466,Logan Adams,$99.97,1
+Top Customers,15779,Jackson Hayes,$99.97,1
+Top Customers,16193,Victor Rubio,$99.97,2
+Top Customers,14829,Gina Vazquez,$99.97,1
+
+(10 rows affected)
