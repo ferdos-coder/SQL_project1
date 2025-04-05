@@ -1,0 +1,46 @@
+ProductSubcategory,VendorName,TotalPurchase
+------------------,----------,-------------
+Tires and Tubes,Professional Athletic Consultants,$9,960,119.40
+Brakes,Superior Bicycles,$9,111,795.00
+Socks,Jeff's Sporting Goods,$77,560.00
+Shorts,Integrated Sport Products,$7,425.00
+Lights,International Trek Center,$65,647.50
+Tires and Tubes,Sport Fan Co.,$6,321,447.83
+Tires and Tubes,Victory Bikes,$6,208,142.33
+Bike Racks,Green Lake Bike Company,$54,492.50
+Bike Stands,Green Lake Bike Company,$54,492.50
+Cleaners,Green Lake Bike Company,$54,492.50
+Fenders,Green Lake Bike Company,$54,492.50
+Hydration Packs,Green Lake Bike Company,$54,492.50
+Saddles,First Rate Bicycles,$5,522,060.78
+Chains,Varsity Sport Co.,$47,218.50
+Bottles and Cages,Green Lake Bike Company,$44,745.00
+Pumps,International Trek Center,$43,765.00
+Pedals,Jackson Authority,$4,667,528.25
+Pedals,Greenwood Athletic Company,$4,475,601.90
+Pedals,Crowley Sport,$4,475,601.90
+Pedals,Mitchell Sports,$4,387,845.00
+Jerseys,Integrated Sport Products,$4,157,322.60
+Tires and Tubes,Signature Cycles,$4,047,120.00
+Tires and Tubes,Vista Road Bikes,$3,784,357.50
+Caps,Integrated Sport Products,$27,453.60
+Locks,International Trek Center,$21,882.50
+Panniers,International Trek Center,$21,882.50
+Saddles,Hill's Bicycle Service,$2,891,057.40
+Saddles,Expert Bike Co,$2,737,391.40
+Tires and Tubes,Trikes, Inc.,$2,645,527.50
+Vests,Team Athletic Co.,$2,380,374.00
+Gloves,Team Athletic Co.,$2,380,374.00
+Tires and Tubes,Green Lake Bike Company,$14,915.00
+Saddles,Chicago City Saddles,$14,259,878.33
+Helmets,G & K Bicycle Corp.,$13,734.95
+Pedals,Bicycle Specialists,$1,766,855.48
+Pedals,Inline Accessories,$1,766,855.48
+Bib-Shorts,Fitness Association,$1,662,060.00
+Shorts,Fitness Association,$1,662,060.00
+Tights,Fitness Association,$1,662,060.00
+Pedals,Compete Enterprises, Inc,$1,549,859.85
+Shorts,Team Athletic Co.,$1,190,187.00
+Saddles,Hybrid Bicycle Center,$1,148,352.98
+
+(42 rows affected)
