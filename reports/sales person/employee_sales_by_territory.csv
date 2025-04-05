@@ -1,0 +1,39 @@
+TerritoryName,BusinessEntityID,SalesPersonName,TotalSales,OrderCount
+-------------,----------------,---------------,----------,----------
+Northeast,274,Stephen Jiang,$93,733.46,4
+Canada,289,Jae Pak,$9,585,124.95,348
+Northwest,281,Shu Ito,$848,175.29,30
+Southeast,279,Tsvi Reiter,$8,086,073.68,429
+Southwest,276,Linda Mitchell,$7,264,201.15,302
+Central,281,Shu Ito,$582,372.21,19
+Southwest,281,Shu Ito,$5,829,020.37,193
+France,290,Ranjit Varkey Chudukatil,$5,087,977.21,175
+United Kingdom,287,Amy Alberts,$497,073.74,17
+Southwest,274,Stephen Jiang,$466,280.88,14
+Northeast,277,Jillian Carson,$4,417,588.07,202
+United Kingdom,282,José Saraiva,$4,329,132.90,171
+Northwest,283,David Campbell,$4,207,894.60,189
+Canada,278,Garrett Vargas,$4,069,422.21,234
+Central,274,Stephen Jiang,$39,933.18,1
+Southeast,275,Michael Blythe,$325,238.64,12
+Southwest,275,Michael Blythe,$3,949,441.26,135
+Northwest,280,Pamela Ansman-Wolfe,$3,748,246.12,95
+Southwest,277,Jillian Carson,$3,323,094.12,107
+Central,277,Jillian Carson,$3,311,501.85,145
+Northeast,275,Michael Blythe,$3,301,669.72,136
+Southeast,277,Jillian Carson,$290,201.86,19
+Northwest,274,Stephen Jiang,$262,466.05,10
+Germany,287,Amy Alberts,$219,211.24,9
+Canada,274,Stephen Jiang,$204,459.60,10
+Central,275,Michael Blythe,$2,899,017.45,167
+Northwest,284,Tete Mensa-Annan,$2,608,116.38,140
+Canada,282,José Saraiva,$2,354,403.76,100
+Northwest,276,Linda Mitchell,$2,353,659.28,72
+Central,276,Linda Mitchell,$2,077,158.63,44
+Germany,288,Rachel Valdez,$2,062,393.14,130
+Australia,285,Syed Abbas,$195,528.78,16
+Southeast,274,Stephen Jiang,$169,061.27,9
+France,287,Amy Alberts,$110,132.49,13
+Australia,286,Lynn Tsoflias,$1,606,441.45,109
+
+(35 rows affected)

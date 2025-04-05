@@ -1,0 +1,14 @@
+BusinessEntityID,SalesPersonName,TotalSales,OrderCount
+----------------,---------------,----------,----------
+289,Jae Pak,$9,585,124.95,348
+287,Amy Alberts,$826,417.47,39
+279,Tsvi Reiter,$8,086,073.68,429
+281,Shu Ito,$7,259,567.88,242
+282,José Saraiva,$6,683,536.66,271
+290,Ranjit Varkey Chudukatil,$5,087,977.21,175
+283,David Campbell,$4,207,894.60,189
+278,Garrett Vargas,$4,069,422.21,234
+280,Pamela Ansman-Wolfe,$3,748,246.12,95
+284,Tete Mensa-Annan,$2,608,116.38,140
+
+(10 rows affected)
