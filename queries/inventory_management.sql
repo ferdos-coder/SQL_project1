@@ -115,3 +115,7 @@ ORDER BY MonthsSinceLastActivity DESC;
 
 
 EXEC xp_cmdshell 'sqlcmd -S DESKTOP-JR93J5N -d AdventureWorks2022 -Q "SELECT p.ProductID, p.Name AS ProductName, MAX(th.TransactionDate) AS LastTransactionDate, DATEDIFF(MONTH, MAX(th.TransactionDate), GETDATE()) AS MonthsSinceLastActivity, SUM(pch.Quantity) AS CurrentStock FROM Production.Product p JOIN Production.TransactionHistory th ON p.ProductID = th.ProductID JOIN Production.ProductInventory pch ON p.ProductID = pch.ProductID GROUP BY p.ProductID, p.Name HAVING DATEDIFF(MONTH, MAX(th.TransactionDate), GETDATE()) > 6 ORDER BY MonthsSinceLastActivity DESC" -o "E:\data analysis project\AdventureWorks2022SQLProject\reports\inventory_management\inventory_slow_moving.csv" -s "," -W -w 700';
+
+
+
+
