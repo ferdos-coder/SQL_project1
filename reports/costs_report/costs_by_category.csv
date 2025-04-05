@@ -1,0 +1,108 @@
+ProductCategory,ProductSubcategory,UnitCost,TotalCost
+---------------,------------------,--------,---------
+Bikes,Road Bikes,2171.2942,1708808.5354
+Bikes,Touring Bikes,1481.9379,1639023.3174
+Bikes,Road Bikes,1554.9479,1340365.0898
+Bikes,Mountain Bikes,1898.0944,1235659.4544
+Bikes,Mountain Bikes,1912.1544,1193184.3456
+Bikes,Road Bikes,486.7066,969032.8406
+Bikes,Touring Bikes,461.4448,792300.7216
+Bikes,Road Bikes,1518.7864,753318.0544
+Bikes,Road Bikes,1082.5100,750179.4300
+Bikes,Mountain Bikes,1265.6195,632809.7500
+Bikes,Road Bikes,884.7083,630797.0179
+Components,Mountain Frames,739.0410,616360.1940
+Bikes,Mountain Bikes,1251.9813,592187.1549
+Components,Mountain Frames,747.2002,551433.7476
+Bikes,Road Bikes,713.0798,549784.5258
+Bikes,Touring Bikes,755.1508,493868.6232
+Bikes,Mountain Bikes,598.4354,375817.4312
+Components,Road Frames,360.9428,287310.4688
+Bikes,Mountain Bikes,419.7784,260682.3864
+Bikes,Mountain Bikes,308.2179,252738.6780
+Bikes,Mountain Bikes,294.5797,228004.6878
+Bikes,Road Bikes,343.6496,225090.4880
+Components,Cranksets,179.8156,165969.7988
+Components,Mountain Frames,199.3757,164684.3282
+Components,Mountain Frames,185.8193,142523.4031
+Components,Wheels,145.2835,113756.9805
+Components,Wheels,158.5346,113510.7736
+Components,Wheels,133.2955,110768.5605
+Components,Cranksets,113.8816,103062.8480
+Components,Wheels,122.2709,102340.7433
+Components,Wheels,146.5466,99358.5948
+Components,Mountain Frames,144.5938,98612.9716
+Components,Mountain Frames,136.7850,98348.4150
+Components,Forks,101.8936,91806.1336
+Components,Handlebars,53.3999,88163.2349
+Components,Wheels,110.2829,87454.3397
+Components,Wheels,104.7951,85093.6212
+Components,Pedals,35.9596,82491.3224
+Components,Wheels,108.7844,80609.2404
+Components,Wheels,92.8071,75916.2078
+Components,Wheels,96.7964,71242.1504
+Components,Brakes,47.2860,70456.1400
+Components,Cranksets,77.9176,68957.0760
+Components,Forks,77.9176,68723.3232
+Components,Forks,65.8097,56793.7711
+Components,Bottom Brackets,53.9416,52323.3520
+Components,Handlebars,27.4925,45967.4600
+Components,Derailleurs,53.9282,45677.1854
+Components,Headsets,55.3801,43307.2382
+Components,Saddles,23.3722,42327.0542
+Components,Wheels,49.9789,39933.1411
+Components,Bottom Brackets,44.9506,36679.6896
+Components,Headsets,45.4168,35061.7696
+Components,Derailleurs,40.6216,34650.2248
+Components,Wheels,37.9909,33735.9192
+Components,Handlebars,19.7758,33421.1020
+Components,Handlebars,40.6571,32200.4232
+Clothing,Jerseys,38.4923,30485.9016
+Components,Saddles,12.0413,30295.9108
+Components,Saddles,17.3782,29977.3950
+Components,Pedals,27.5680,27595.5680
+Components,Wheels,38.9588,26530.9428
+Clothing,Shorts,26.1763,19789.2828
+Components,Bottom Brackets,23.9716,19512.8824
+Components,Wheels,26.9708,19472.9176
+Components,Pedals,17.9776,18157.3760
+Clothing,Jerseys,41.5723,17959.2336
+Clothing,Shorts,24.7459,17817.0480
+Components,Handlebars,20.4640,16412.1280
+Clothing,Vests,23.7490,15389.3520
+Clothing,Bib-Shorts,37.1209,12027.1716
+Components,Headsets,15.1848,11555.6328
+Clothing,Tights,30.9334,11136.0240
+Accessories,Tires and Tubes,9.3463,11056.6729
+Accessories,Helmets,13.0863,10835.4564
+Accessories,Bike Stands,59.4660,8563.1040
+Accessories,Tires and Tubes,11.2163,7503.7047
+Accessories,Tires and Tubes,13.0900,6531.9100
+Accessories,Tires and Tubes,12.1924,6425.3948
+Components,Chains,8.9866,5293.1074
+Accessories,Tires and Tubes,10.8423,5225.9886
+Clothing,Gloves,15.6709,5077.3716
+Accessories,Lights,18.5584,4008.6144
+Accessories,Tires and Tubes,8.0373,3922.2024
+Accessories,Panniers,51.5625,3712.5000
+Accessories,Pumps,10.3084,3339.9216
+Clothing,Gloves,9.1593,3297.3480
+Accessories,Locks,10.3125,2598.7500
+Accessories,Lights,14.4334,2598.0120
+Accessories,Pumps,8.2459,2374.8192
+Accessories,Hydration Packs,20.5663,2221.1604
+Clothing,Caps,6.9223,1993.6224
+Accessories,Tires and Tubes,1.8663,1924.1553
+Clothing,Socks,3.3623,1815.6420
+Clothing,Socks,3.3963,1344.9348
+Accessories,Bottles and Cages,3.3623,1089.3852
+Accessories,Bottles and Cages,3.7363,1076.0544
+Accessories,Fenders,8.2205,887.8140
+Accessories,Lights,5.7709,831.0096
+Accessories,Tires and Tubes,1.4923,753.6115
+Accessories,Bottles and Cages,1.8663,470.3076
+Accessories,Tires and Tubes,.8565,154.1700
+Accessories,Cleaners,2.9733,107.0388
+Accessories,Bike Racks,44.8800,.0000
+
+(104 rows affected)

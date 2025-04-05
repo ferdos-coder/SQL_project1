@@ -1,0 +1,21 @@
+BusinessEntityID,SalesPersonName,TotalSales,TotalCommissionCost
+----------------,---------------,----------,-------------------
+289,Jae Pak,$9,585,124.95,191702.5005
+276,Linda Mitchell,$11,695,019.06,175425.2862
+277,Jillian Carson,$11,342,385.90,170135.7889
+275,Michael Blythe,$10,475,367.08,125704.4045
+282,José Saraiva,$6,683,536.66,100253.0490
+290,Ranjit Varkey Chudukatil,$5,087,977.21,81407.6355
+279,Tsvi Reiter,$8,086,073.68,80860.7374
+281,Shu Ito,$7,259,567.88,72595.6795
+283,David Campbell,$4,207,894.60,50494.7349
+284,Tete Mensa-Annan,$2,608,116.38,49554.2108
+278,Garrett Vargas,$4,069,422.21,40694.2223
+280,Pamela Ansman-Wolfe,$3,748,246.12,37482.4607
+288,Rachel Valdez,$2,062,393.14,37123.0760
+286,Lynn Tsoflias,$1,606,441.45,28915.9460
+285,Syed Abbas,$195,528.78,.0000
+274,Stephen Jiang,$1,235,934.45,.0000
+287,Amy Alberts,$826,417.47,.0000
+
+(17 rows affected)

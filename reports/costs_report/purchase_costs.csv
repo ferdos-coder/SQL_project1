@@ -1,0 +1,90 @@
+BusinessEntityID,VendorName,TotalPurchase
+----------------,----------,-------------
+1514,Training Systems,$82,432.92
+1650,American Bicycles and Wheels,$8,724.90
+1604,Bike Satellite Inc.,$79,098.74
+1664,Anderson's Custom Bikes,$746,031.83
+1602,Beaumont Bikes,$71,841.42
+1580,Litware, Inc.,$7,740.57
+1698,Business Equipment Center,$7,690.32
+1690,Bloomington Multisport,$7,460.59
+1510,International,$7,295.12
+1648,Wide World Importers,$7,262.99
+1560,Capital Road Cycles,$697,140.68
+1546,Green Lake Bike Company,$69,407.50
+1600,Federal Sport,$65,090.03
+1612,Midwest Sport, Inc.,$6,632.33
+1688,Wood Fitness,$6,287.40
+1594,Fitness Association,$554,020.00
+1584,Trey Research,$522,889.92
+1692,Carlson Specialties,$508,190.13
+1618,Metro Sport Equipment,$5,723.55
+1566,Burnett Road Warriors,$5,230.76
+1674,Varsity Sport Co.,$47,218.50
+1494,Allenson Cycles,$451,212.30
+1592,Lindell,$4,898.25
+1520,G & K Bicycle Corp.,$4,578.32
+1576,Superior Bicycles,$4,555,897.50
+1676,Team Athletic Co.,$396,729.00
+1574,Jeff's Sporting Goods,$38,780.00
+1626,Hill Bicycle Center,$363,738.38
+1656,Mountain Works,$35,976.87
+1540,Bergeron Off-Roads,$34,952.15
+1694,Compete, Inc.,$316,758.75
+1684,Professional Athletic Consultants,$3,058,774.95
+1548,Consumer Cycles,$3,057.17
+1696,Chicago City Saddles,$3,029,108.78
+1608,Sport Playground,$297,412.50
+1544,Circuit Cycles,$293,485.50
+1620,Lakewood Bicycle,$291,285.23
+1562,Norstan Bike Hut,$28,800.14
+1536,Cruger Bike Company,$28,506.62
+1504,Chicago Rent-All,$28,145.88
+1616,Aurora Bike Center,$27,356.90
+1590,SUPERSALES INC.,$26,250.00
+1496,Advanced Bicycles,$25,793.75
+1686,Pro Sport Industries,$25,538.59
+1582,Inner City Bikes,$24,713.67
+1666,Leaf River Terrain,$24,595.29
+1614,Reliance Fitness, Inc.,$23,620.65
+1622,Speed Corporation,$23,287.64
+1516,Gardner Touring Cycles,$23,197.86
+1572,National Bike Association,$23,089.50
+1492,Australia Bike Retailer,$22,678.77
+1554,WestAmerica Bicycle Co.,$22,678.77
+1518,International Trek Center,$21,882.50
+1534,Ready Rentals,$21,389.19
+1500,Morgan Bike Accessories,$20,947.50
+1598,Continental Pro Cycles,$20,778.35
+1680,Jackson Authority,$2,553,243.00
+1578,Vision Cycles, Inc.,$2,513,742.00
+1632,Sport Fan Co.,$2,421,619.20
+1678,Proseware, Inc.,$2,347,422.00
+1506,Greenwood Athletic Company,$2,237,800.95
+1658,Crowley Sport,$2,237,800.95
+1586,Mitchell Sports,$2,193,922.50
+1570,First Rate Bicycles,$2,085,277.43
+1588,Signature Cycles,$2,023,560.00
+1644,International Sport Assoc.,$189,379.58
+1522,First National Sport Co.,$102,200.18
+1646,Electronic Bike Repair & Supplies,$1,950,021.15
+1538,Vista Road Bikes,$1,892,178.75
+1652,Victory Bikes,$1,857,170.70
+1662,Northern Bike Travel,$1,853.78
+1628,Bicycle Specialists,$1,766,855.48
+1638,Inline Accessories,$1,766,855.48
+1508,Compete Enterprises, Inc,$1,567,115.55
+1542,Hill's Bicycle Service,$1,445,528.70
+1624,Competition Bike Training Systems,$1,443,172.50
+1526,International Bicycles,$1,438,165.58
+1530,Comfort Road Bicycles,$1,431,686.03
+1498,Trikes, Inc.,$1,322,763.75
+1556,West Junction Cycles,$1,276,563.75
+1568,Custom Frames, Inc.,$1,190,487.38
+1610,Hybrid Bicycle Center,$1,148,352.98
+1636,Integrated Sport Products,$1,078,941.60
+1682,Premier Sport, Inc.,$1,077,903.75
+1654,American Bikes,$1,040,262.30
+1672,Expert Bike Co,$1,036,840.53
+
+(86 rows affected)
