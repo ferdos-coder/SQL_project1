@@ -1,0 +1,14 @@
+ProductID,ProductName,CurrentStock
+---------,-----------,------------
+853,Women's Tights, M,0
+859,Half-Finger Gloves, M,0
+876,Hitch Rack - 4-Bike,0
+882,Short-Sleeve Classic Jersey, M,0
+854,Women's Tights, L,36
+860,Half-Finger Gloves, L,36
+877,Bike Wash - Dissolver,36
+883,Short-Sleeve Classic Jersey, L,36
+492,Paint - Black,47
+494,Paint - Silver,65
+
+(10 rows affected)

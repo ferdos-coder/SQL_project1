@@ -1,0 +1,14 @@
+ProductID,ProductName,TotalSales,TotalQuantitySold
+---------,-----------,----------,-----------------
+955,Touring-1000 Yellow, 50,$981,187.85,652
+883,Short-Sleeve Classic Jersey, L,$98,472.72,2848
+993,Mountain-500 Black, 52,$96,982.20,272
+716,Long-Sleeve Logo Jersey, XL,$95,611.20,2980
+762,Road-650 Red, 44,$943,340.56,2254
+854,Women's Tights, L,$94,090.64,2123
+799,Road-550-W Yellow, 42,$932,039.59,1249
+748,HL Mountain Frame - Silver, 38,$930,780.68,1206
+925,LL Mountain Frame - Black, 44,$93,584.42,625
+852,Women's Tights, S,$91,330.80,2072
+
+(10 rows affected)
