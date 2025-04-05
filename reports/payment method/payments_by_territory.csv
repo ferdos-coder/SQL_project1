@@ -1,0 +1,14 @@
+TerritoryName,TotalSales
+-------------,----------
+Central,$8,913,299.25
+Southeast,$8,884,099.37
+United Kingdom,$8,574,048.71
+France,$8,119,749.35
+Northeast,$7,820,209.63
+Germany,$5,479,819.58
+Southwest,$27,150,594.59
+Canada,$18,398,929.19
+Northwest,$18,061,660.37
+Australia,$11,814,376.10
+
+(10 rows affected)

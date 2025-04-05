@@ -1,0 +1,8 @@
+CreditCardType,OrderCount,TotalCreditCardSales
+--------------,----------,--------------------
+ColonialVoice,7678,$32,454,359.10
+SuperiorCard,7634,$24,960,746.33
+Distinguish,7590,$23,344,371.93
+Vista,7432,$27,719,114.35
+
+(4 rows affected)
