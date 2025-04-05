@@ -1,0 +1,4 @@
+SalesOrderID,OrderDate,ShipDate,DeliveryDays
+------------,---------,--------,------------
+
+(0 rows affected)
