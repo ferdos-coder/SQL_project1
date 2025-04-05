@@ -1,0 +1,12 @@
+ProductID,ProductName,ReorderPoint,CurrentStock
+---------,-----------,------------,------------
+853,Women's Tights, M,3,0
+859,Half-Finger Gloves, M,3,0
+876,Hitch Rack - 4-Bike,3,0
+882,Short-Sleeve Classic Jersey, M,3,0
+956,Touring-1000 Yellow, 54,75,75
+910,HL Mountain Seat/Saddle,375,355
+462,Lower Head Race,750,701
+386,Hex Nut 1,750,725
+
+(8 rows affected)
